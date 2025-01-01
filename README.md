@@ -1,8 +1,31 @@
-# qwrt5.4  
-## 软件包  
+# ac86u  
+## blacklist  
 
-** 先从系统自带软件包中安装wrtbwmon系列软件，之后再安装istore软件中心，即可中文化  
-** istore软件中心可以安装的软件有 主机流量统计, NetData系统监控, NAS媒体工具, Homebox内网测速, IP限速, 实时流量  
-** 从系统自带软件包中可以安装aria2 1.35, luci-app-aria2 1.0.1   
-** 从系统自带软件包中可以安装 alist (3.19.0-2), libfuse1 (2.9.9-1), fuse-utils (2.9.9-1)  
-
+```
+ubisoft-uplay-savegames.s3.amazonaws.com
+ubisoft-orbit-savegames.s3.amazonaws.com
+dl.covecube.com
+dl.4kdownload.com
+mirror.jumpdesktop.com
+cloudfront.net
+global-heroes.com
+wiki.sspanel.host
+github.com
+githubusercontent.com
+raw.githubusercontent.com
+gist.github.com
+gist.githubusercontent.com
+wtfast.com
+gvt0.com
+gvt1.com
+gvt2.com
+gvt3.com
+gvt4.com
+gvt5.com
+freefilesync.org
+emby.media
+stablebit.cloud
+steamcommunity.com
+app.pluralsight.com
+v2ex.com
+```
